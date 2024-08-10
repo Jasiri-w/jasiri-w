@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasiri Wa-Kyendo</h1>
 <h3>I'm a passionate problem-solver from Kenya, aspiring to make meaningful change in people's lives.</h3>
 
-- 🔭 I’m currently working on a data analysis project: [Kikunuani](https://github.com/Jasiri-w/Supermarket-Analysis)
+- 🔭 I’m currently working on a data analysis project: [Supermarket Data Analytics Dashboard](https://github.com/Jasiri-w/Supermarket-Analysis)
 
 - 🌱 I’m currently learning to use **Local LLMs** on trained data
 
