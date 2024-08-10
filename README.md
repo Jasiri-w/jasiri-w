@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jasiri Wa-Kyendo</h1>
-<h3 align="center">A passionate problem-solver from Kenya, aspiring to make meaningful change in people's lives currently specializing in Full Stack Web-Development.</h3>
+<h3>I'm a passionate problem-solver from Kenya, aspiring to make meaningful change in people's lives.</h3>
 
-- 🔭 I’m currently working on [Kikunuani](https://github.com/Jasiri-w/Kikunuani)
+- 🔭 I’m currently working on a data analysis project: [Kikunuani](https://github.com/Jasiri-w/Supermarket-Analysis)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning to use **Local LLMs** on trained data
 
-- 💬 Ask me about **Django, Web Scraping and Social Development Ideas**
+- 💬 Ask me about **Machine Learning, Web Development and Social Development Ideas**
 
 - ⚡ Fun fact **I love music**
 
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasiri-w&show_icons=true&locale=en&layout=compact" alt="jasiri-w" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasiri-w&show_icons=true&locale=en" alt="jasiri-w" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasiri-w&show_icons=true&locale=en" alt="jasiri-w" /></p>-->
