@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Web Development and Social Development Ideas**
 
-- ⚡ Fun fact **I love music**
+- ⚡ Fun fact **I love music & culture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
