@@ -5,12 +5,11 @@
 
 - 🌱 I’m currently learning to use **Local LLMs** on trained data
 
-- 💬 Ask me about **Machine Learning, Web Development and Social Development Ideas**
+- 💬 Ask me about **Machine Learning, Web Development and Social Development Ideas** or anything music
 
-- ⚡ Fun fact **I love music & culture**
 
-<h3 align="left">Connect with me here:</h3>
 <p align="left">
+Connect with me here:
 <a href="https://linkedin.com/in/jasiri wa-kyendo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasiri wa-kyendo" height="30" width="40" /></a>
 <a href="https://medium.com/@jasiri.w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jasiri wa-kyendo" height="30" width="40" /></a>
 </p>
@@ -30,7 +29,7 @@
   </a>
 </p>
 
-Check out these projects: [Supermarket Data Analytics Dashboard](https://github.com/Jasiri-w/Supermarket-Analysis), [Sportshall Registration Web App](https://github.com/Jasiri-w/Sportshall-Registration-Web-App), [McMaster CS 1XC3 Submissions](https://github.com/Jasiri-w/CS1XC3)
+_Check out these projects:_ [Supermarket Data Analytics Dashboard](https://github.com/Jasiri-w/Supermarket-Analysis), [Sportshall Registration Web App](https://github.com/Jasiri-w/Sportshall-Registration-Web-App), [McMaster CS 1XC3 Submissions](https://github.com/Jasiri-w/CS1XC3)
 
 <h4 align="left">Web Development</h4>
 <h5 align="left">Frontend</h5>
@@ -77,7 +76,7 @@ Check out these projects: [Supermarket Data Analytics Dashboard](https://github.
   </a> 
 </p>
 
-Check Out These Projects: [Sportshall Registration Web App](https://github.com/Jasiri-w/Sportshall-Registration-Web-App), [Library POS](https://github.com/Jasiri-w/LibraryPOS), [Timesheet UI (Frontend)](https://github.com/Jasiri-w/timesheet-ui)
+_Check Out These Projects:_ [Sportshall Registration Web App](https://github.com/Jasiri-w/Sportshall-Registration-Web-App), [Library POS](https://github.com/Jasiri-w/LibraryPOS), [Timesheet UI (Frontend)](https://github.com/Jasiri-w/timesheet-ui)
 
 <h4 align="left">Databases</h4>
 <p align="left"> 
