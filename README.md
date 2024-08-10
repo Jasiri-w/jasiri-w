@@ -77,7 +77,7 @@ Check out these projects: [Supermarket Data Analytics Dashboard](https://github.
   </a> 
 </p>
 
-Check Out These Projects: [Sportshall Registration Web App](https://github.com/Jasiri-w/Sportshall-Registration-Web-App), [Library POS](https://github.com/Jasiri-w/LibraryPOS)
+Check Out These Projects: [Sportshall Registration Web App](https://github.com/Jasiri-w/Sportshall-Registration-Web-App), [Library POS](https://github.com/Jasiri-w/LibraryPOS), [Timesheet UI](https://github.com/Jasiri-w/timesheet-ui)
 
 <h4 align="left">Databases</h4>
 <p align="left"> 
