@@ -112,3 +112,7 @@ _Check Out These Projects:_ [Sportshall Registration Web App](https://github.com
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasiri-w&show_icons=true&locale=en&layout=compact" alt="jasiri-w" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasiri-w&show_icons=true&locale=en" alt="jasiri-w" /></p>-->
+
+<!--START_SECTION:streak-->
+🔥 Kept Active: **1** days (last updated 2026-07-25 UTC)
+<!--END_SECTION:streak-->

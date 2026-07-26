@@ -1,0 +1,40 @@
+name: Daily Profile Streak
+
+on:
+  schedule:
+    # Runs daily at 14:17 UTC. Off-the-hour on purpose — GitHub explicitly
+    # warns that jobs scheduled for the top of the hour (e.g. 00:00, 12:00)
+    # queue behind everyone else's and can be delayed. Adjust to your
+    # preferred time; just avoid :00.
+    - cron: '17 14 * * *'
+  workflow_dispatch:  # lets you trigger a manual test run from the Actions tab
+
+permissions:
+  contents: write  # required to push the commit back to the repo
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update streak counter
+        run: python update_streak.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Jasiri-w"
+          git config user.email "jasiri.w@gmail.com"
+          git add README.md streak_count.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update streak counter"
+            git push
+          fi
